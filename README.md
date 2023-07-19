@@ -1,6 +1,6 @@
 # Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition
 
-
+(incomplete version)
 ## Preparation
 - Download pre-trained model of [MSCeleb](https://drive.google.com/file/d/1u2NtY-5DVlTunfN4yxfxys5n8uh7sc3n/view?usp=sharing) and move the file to `./models`
 
