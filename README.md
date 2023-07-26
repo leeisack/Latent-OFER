@@ -1,9 +1,13 @@
 # Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition
 
 background paper implementation
+
 MAE: https://github.com/facebookresearch/mae
+
 deep-SVDD: https://github.com/lukasruff/Deep-SVDD-PyTorch
+
 SVDD: https://github.com/iqiukp/SVDD-Python
+
 ViT: https://github.com/lucidrains/vit-pytorch
 
 
